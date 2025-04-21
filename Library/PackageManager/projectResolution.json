@@ -9,6 +9,16 @@
     "C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.47f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\BuiltInPackagesCombined.sha1"
   ],
   "outputs": {
+    "com.unity.cinemachine@3.1.3": {
+      "name": "com.unity.cinemachine",
+      "displayName": "Cinemachine",
+      "resolvedPath": "C:\\Users\\tb\\Documents\\GitHub\\Waste-Sorter\\Library\\PackageCache\\com.unity.cinemachine@624f919d8cdd",
+      "fingerprint": "624f919d8cdd376712eda21b43abcb0330c023e2",
+      "editorCompatibility": "2022.3.0a1",
+      "version": "3.1.3",
+      "source": "registry",
+      "testable": false
+    },
     "com.unity.collab-proxy@2.7.1": {
       "name": "com.unity.collab-proxy",
       "displayName": "Version Control",
@@ -470,6 +480,16 @@
       "source": "registry",
       "testable": false
     },
+    "com.unity.splines@2.8.0": {
+      "name": "com.unity.splines",
+      "displayName": "Splines",
+      "resolvedPath": "C:\\Users\\tb\\Documents\\GitHub\\Waste-Sorter\\Library\\PackageCache\\com.unity.splines@30918147f39c",
+      "fingerprint": "30918147f39c617439e1a955017afede0429d1bd",
+      "editorCompatibility": "2022.3.0a1",
+      "version": "2.8.0",
+      "source": "registry",
+      "testable": false
+    },
     "com.unity.2d.common@9.0.7": {
       "name": "com.unity.2d.common",
       "displayName": "2D Common",
@@ -497,6 +517,16 @@
       "fingerprint": "56bff8827a7ef6d44fcee4f36e558a74da89c1a0",
       "editorCompatibility": "2022.3.11f1",
       "version": "2.5.1",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.settings-manager@2.1.0": {
+      "name": "com.unity.settings-manager",
+      "displayName": "Settings Manager",
+      "resolvedPath": "C:\\Users\\tb\\Documents\\GitHub\\Waste-Sorter\\Library\\PackageCache\\com.unity.settings-manager@41738c275190",
+      "fingerprint": "41738c27519039c335849eb78949382f4d7a3544",
+      "editorCompatibility": "2022.3.0a1",
+      "version": "2.1.0",
       "source": "registry",
       "testable": false
     },

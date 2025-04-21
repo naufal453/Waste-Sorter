@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638807575384097211
-    m_Hash: 2900544289
+      ticks: 638807991306717486
+    m_Hash: 432254019
   m_LockFileStatus:
     m_FilePath: C:/Users/tb/Documents/GitHub/Waste-Sorter/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638807575572471656
-    m_Hash: 194282267
+      ticks: 638807991306777629
+    m_Hash: 2689504861
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -22,6 +22,216 @@ m_LocalPackages:
 m_ProjectPath: C:/Users/tb/Documents/GitHub/Waste-Sorter/Packages
 m_EditorVersion: 6000.0.47f1 (2ad1ed33fd3b)
 m_ResolvedPackages:
+- packageId: com.unity.cinemachine@3.1.3
+  testable: 0
+  isDirectDependency: 1
+  version: 3.1.3
+  source: 1
+  resolvedPath: C:\Users\tb\Documents\GitHub\Waste-Sorter\Library\PackageCache\com.unity.cinemachine@624f919d8cdd
+  assetPath: Packages/com.unity.cinemachine
+  name: com.unity.cinemachine
+  displayName: Cinemachine
+  author:
+    name: 
+    email: 
+    url: 
+  category: cinematography
+  type: 
+  description: "Smart camera tools for passionate creators. \n\nCinemachine 3 is
+    a newer and better version of Cinemachine, but upgrading an existing project
+    from 2.X will likely require some effort.  If you're considering upgrading an
+    older project, please see our upgrade guide in the user manual."
+  errors: []
+  versions:
+    all:
+    - 2.1.11-beta.1
+    - 2.1.12
+    - 2.1.13
+    - 2.2.0
+    - 2.2.7
+    - 2.2.8
+    - 2.2.9
+    - 2.2.10-preview.3
+    - 2.2.10-preview.4
+    - 2.3.1
+    - 2.3.3
+    - 2.3.4
+    - 2.3.5-preview.3
+    - 2.4.0-preview.3
+    - 2.4.0-preview.4
+    - 2.4.0-preview.6
+    - 2.4.0-preview.7
+    - 2.4.0-preview.8
+    - 2.4.0-preview.9
+    - 2.4.0-preview.10
+    - 2.4.0
+    - 2.5.0
+    - 2.6.0-preview.2
+    - 2.6.0-preview.3
+    - 2.6.0-preview.5
+    - 2.6.0-preview.8
+    - 2.6.0
+    - 2.6.1-preview.6
+    - 2.6.1
+    - 2.6.2-preview.1
+    - 2.6.2
+    - 2.6.3-preview.2
+    - 2.6.3
+    - 2.6.4
+    - 2.6.5
+    - 2.6.9
+    - 2.6.10
+    - 2.6.11
+    - 2.6.14
+    - 2.6.15
+    - 2.6.17
+    - 2.7.1
+    - 2.7.2
+    - 2.7.3
+    - 2.7.4
+    - 2.7.5
+    - 2.7.8
+    - 2.7.9
+    - 2.8.0-exp.1
+    - 2.8.0-exp.2
+    - 2.8.0-pre.1
+    - 2.8.0
+    - 2.8.1
+    - 2.8.2
+    - 2.8.3
+    - 2.8.4
+    - 2.8.6
+    - 2.8.9
+    - 2.9.0-pre.1
+    - 2.9.0-pre.6
+    - 2.9.1
+    - 2.9.2
+    - 2.9.4
+    - 2.9.5
+    - 2.9.7
+    - 2.10.0
+    - 2.10.1
+    - 2.10.2
+    - 2.10.3
+    - 3.0.0-pre.3
+    - 3.0.0-pre.4
+    - 3.0.0-pre.5
+    - 3.0.0-pre.6
+    - 3.0.0-pre.7
+    - 3.0.0-pre.8
+    - 3.0.0-pre.9
+    - 3.0.1
+    - 3.1.0
+    - 3.1.1
+    - 3.1.2
+    - 3.1.3
+    compatible:
+    - 2.10.3
+    - 3.0.0-pre.3
+    - 3.0.0-pre.4
+    - 3.0.0-pre.5
+    - 3.0.0-pre.6
+    - 3.0.0-pre.7
+    - 3.0.0-pre.8
+    - 3.0.0-pre.9
+    - 3.0.1
+    - 3.1.0
+    - 3.1.1
+    - 3.1.2
+    - 3.1.3
+    recommended: 3.1.3
+    deprecated: []
+  dependencies:
+  - name: com.unity.splines
+    version: 2.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.splines
+    version: 2.8.0
+  - name: com.unity.mathematics
+    version: 1.3.2
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.settings-manager
+    version: 2.1.0
+  keywords:
+  - camera
+  - follow
+  - rig
+  - fps
+  - cinematography
+  - aim
+  - orbit
+  - cutscene
+  - cinematic
+  - collision
+  - freelook
+  - cinemachine
+  - compose
+  - composition
+  - dolly
+  - track
+  - clearshot
+  - noise
+  - framing
+  - handheld
+  - lens
+  - impulse
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  entitlements:
+    licensingModel: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638739355014480000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.cinemachine@3.1/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.com/Unity-Technologies/com.unity.cinemachine.git
+    revision: 23940e5601df6628d349dc9d1912bd2bb34ad631
+    path: 
+  unityLifecycle:
+    version: 2.10.3
+    nextVersion: 
+    recommendedVersion: 3.1.0
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"changelog":"### Bugfixes\n- Regression fix: CinemachinePanTilt
+    recentering was ignoring axis Center setting.\n- CameraDeactivated events were
+    not sent consistently when a blend interrupted another blend before completion.\n-
+    CameraActivated events were not sent consistently when activation was due to
+    timeline blends.\n- FramingTransposer with a dead zone would sometimes drift.\n-
+    Decollider would sometimes cause camera to slip inside cracks between adjacent
+    colliders.\n- The Deoccluder failed to reset its state when initially enabled,
+    and sometimes caused small spurious camera rotations.\n- Fixed the Radial Axis
+    input axis in the CinemachineOrbitalFollow component to map to the y axis.\n-
+    Desired blend time is respected when interrupting blends with heterogeneous blend-in
+    and blend-out times.\n\n### Changed\n- Added delayed processing to near and far
+    clip plane inspector fields for the CinemachineCamera lens.\n- Updated the gamepad
+    inputs in the CinemachineDefaultInputActions asset to closer match standard gamepad
+    conventions. Renamed the Player action map to CM Default.\n\n### Added\n- CinemachineConfiner2D.BoundingShapeIsBaked
+    can be used to check if the confiner''s bounding shape is baked.\n- CinemachineConfiner2D.BakeBoundingShape()
+    can be used to force-complete the confiner''s baking of the bounding shape."}'
+  assetStore:
+    productId: 
+  fingerprint: 624f919d8cdd376712eda21b43abcb0330c023e2
+  editorCompatibility:
+    compatibilityLevel: 0
+    minimumPackageVersion: 2.10.3
+    minimumUnityVersion: 2022.3.0a1
 - packageId: com.unity.collab-proxy@2.7.1
   testable: 0
   isDirectDependency: 1
@@ -5002,6 +5212,119 @@ m_ResolvedPackages:
     compatibilityLevel: 0
     minimumPackageVersion: 1.1.9
     minimumUnityVersion: 2021.3.15f1
+- packageId: com.unity.splines@2.8.0
+  testable: 0
+  isDirectDependency: 0
+  version: 2.8.0
+  source: 1
+  resolvedPath: C:\Users\tb\Documents\GitHub\Waste-Sorter\Library\PackageCache\com.unity.splines@30918147f39c
+  assetPath: Packages/com.unity.splines
+  name: com.unity.splines
+  displayName: Splines
+  author:
+    name: 
+    email: 
+    url: 
+  category: Tool
+  type: 
+  description: Work with curves and paths. Use the Splines package to generate objects
+    and behaviors along paths, create trajectories, and draw shapes.
+  errors: []
+  versions:
+    all:
+    - 0.1.0-preview.1
+    - 1.0.0-pre.5
+    - 1.0.0-pre.7
+    - 1.0.0-pre.8
+    - 1.0.0-pre.9
+    - 1.0.0
+    - 1.0.1
+    - 2.0.0-pre.2
+    - 2.0.0-pre.4
+    - 2.0.0
+    - 2.1.0
+    - 2.2.0
+    - 2.2.1
+    - 2.3.0
+    - 2.4.0
+    - 2.5.1
+    - 2.5.2
+    - 2.6.0
+    - 2.6.1
+    - 2.7.1
+    - 2.7.2
+    - 2.8.0
+    compatible:
+    - 2.8.0
+    recommended: 2.8.0
+    deprecated: []
+  dependencies:
+  - name: com.unity.mathematics
+    version: 1.2.1
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.settings-manager
+    version: 1.0.3
+  resolvedDependencies:
+  - name: com.unity.mathematics
+    version: 1.3.2
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.settings-manager
+    version: 2.1.0
+  keywords:
+  - spline
+  - curve
+  - path
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  entitlements:
+    licensingModel: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638779131899380000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.splines@2.8/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.splines.git
+    revision: 62fda6a9f01314d27d0dfc41f6fc0bbd13e1c300
+    path: 
+  unityLifecycle:
+    version: 2.8.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"changelog":"### Bug Fixes\n- [SPLB-322] Fixed a bug where `SplineExtrude`
+    wouldn''t update when multiple splines where modified.\n- [SPLB-323] Fixed a
+    bug where splines displayed in the Scene view would not match serialization changes.\n-
+    [SPLB-324] Re-added a dependency to the IMGUI module that was removed along with
+    the UGUI package.\n- [SPLB-332] Fixed a bug where `Element Inspector` fields
+    get pushed and squashed.\n- [SPLB-329] Fixed a bug where `SplineExtrude` could
+    affect the mesh of other `SplineExtrude`.\n- [SPLB-336] Fixed a bug where `SplineExtrude`
+    would break with a range value of 0.\n- [SPLB-333] Fixed a bug where `Create
+    Spline` tool would sometimes throw an exception when the Esc or Enter keys were
+    pressed.\n\n### Added\n- [SPLB-329] Added the ability to target a mesh in the
+    library with a `SplineExtrude` component"}'
+  assetStore:
+    productId: 
+  fingerprint: 30918147f39c617439e1a955017afede0429d1bd
+  editorCompatibility:
+    compatibilityLevel: 0
+    minimumPackageVersion: 2.8.0
+    minimumUnityVersion: 2022.3.0a1
 - packageId: com.unity.2d.common@9.0.7
   testable: 0
   isDirectDependency: 0
@@ -5427,6 +5750,83 @@ m_ResolvedPackages:
     compatibilityLevel: 0
     minimumPackageVersion: 2.5.1
     minimumUnityVersion: 2022.3.11f1
+- packageId: com.unity.settings-manager@2.1.0
+  testable: 0
+  isDirectDependency: 0
+  version: 2.1.0
+  source: 1
+  resolvedPath: C:\Users\tb\Documents\GitHub\Waste-Sorter\Library\PackageCache\com.unity.settings-manager@41738c275190
+  assetPath: Packages/com.unity.settings-manager
+  name: com.unity.settings-manager
+  displayName: Settings Manager
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: A framework for making any serializable field a setting, complete
+    with a pre-built settings interface.
+  errors: []
+  versions:
+    all:
+    - 0.1.0-preview.4
+    - 0.1.0-preview.8
+    - 1.0.0
+    - 1.0.1
+    - 1.0.2
+    - 1.0.3
+    - 2.0.0
+    - 2.0.1
+    - 2.1.0
+    compatible:
+    - 2.1.0
+    recommended: 2.1.0
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  entitlements:
+    licensingModel: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638792046006940000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.settings-manager@2.1/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.com/Unity-Technologies/com.unity.settings-manager.git
+    revision: 6eb5ed85eaf3276cc09f0cc4fc3311c72f0fc196
+    path: 
+  unityLifecycle:
+    version: 2.1.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"changelog":"### Changes\n\n- Enable Auto Reference on main assembly.\n\n###
+    Bug Fixes\n\n- [case: PBLD-56] Added tooltip to \"Options\" gear icon to specify
+    that context menu items are relevant only to the selected category."}'
+  assetStore:
+    productId: 
+  fingerprint: 41738c27519039c335849eb78949382f4d7a3544
+  editorCompatibility:
+    compatibilityLevel: 0
+    minimumPackageVersion: 2.1.0
+    minimumUnityVersion: 2022.3.0a1
 - packageId: com.unity.burst@1.8.21
   testable: 0
   isDirectDependency: 0
