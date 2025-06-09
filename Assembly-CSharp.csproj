@@ -48,15 +48,15 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.47f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\PickupItem.cs" />
-    <Compile Include="Assets\ChallengeArea.cs" />
-    <Compile Include="Assets\MenuController.cs" />
-    <Compile Include="Assets\ChallengeArea1.cs" />
-    <Compile Include="Assets\ItemCounterUI.cs" />
-    <Compile Include="Assets\ItemCounterUImenu.cs" />
-    <Compile Include="Assets\playermovement.cs" />
-    <Compile Include="Assets\TrashBin.cs" />
-    <Compile Include="Assets\PickupItemSpawner.cs" />
+    <Compile Include="Assets\Scripts\ItemCounterUImenu.cs" />
+    <Compile Include="Assets\Scripts\UI\MainMenu.cs" />
+    <Compile Include="Assets\Scripts\TrashBin.cs" />
+    <Compile Include="Assets\Scripts\PickupItemSpawner.cs" />
+    <Compile Include="Assets\Scripts\playermovement.cs" />
+    <Compile Include="Assets\Scripts\UI\LevelButton.cs" />
+    <Compile Include="Assets\Scripts\UI\LevelChooser.cs" />
+    <Compile Include="Assets\Scripts\PickupItem.cs" />
+    <Compile Include="Assets\Scripts\ItemCounterUI.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
