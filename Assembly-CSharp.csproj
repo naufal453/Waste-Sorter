@@ -54,6 +54,7 @@
     <Compile Include="Assets\Scripts\TrashBin.cs" />
     <Compile Include="Assets\Scripts\UI\GameStartPrompt.cs" />
     <Compile Include="Assets\Scripts\PickupItemSpawner.cs" />
+    <Compile Include="Assets\Scripts\MusicManager.cs" />
     <Compile Include="Assets\Scripts\playermovement.cs" />
     <Compile Include="Assets\Scripts\UI\LevelButton.cs" />
     <Compile Include="Assets\Scripts\UI\LevelChooser.cs" />

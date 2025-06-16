@@ -9,6 +9,8 @@ public class ChallengeAreaManager : MonoBehaviour
     public GameObject tryAgainPopup; // Assign di Inspector
     public GameObject successPopup;  // Assign di Inspector (UI Panel dengan tombol lanjut)
     public TMP_Text timerText;       // Assign di Inspector
+    public AudioSource audioSource;      // Assign di Inspector
+    public AudioClip successClip;        // Assign di Inspector
 
     private float timer;
     private bool challengeActive = true;
@@ -51,6 +53,9 @@ public class ChallengeAreaManager : MonoBehaviour
             {
                 challengeActive = false;
                 if (successPopup != null) successPopup.SetActive(true);
+                // Mainkan sound success
+                if (audioSource != null && successClip != null)
+                    audioSource.PlayOneShot(successClip);
             }
         }
     }

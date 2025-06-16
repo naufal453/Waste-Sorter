@@ -119,6 +119,61 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1 &95448368
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 95448370}
+  - component: {fileID: 95448369}
+  m_Layer: 0
+  m_Name: MusicManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &95448369
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 95448368}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b33c5034e1680004db55e5f429e8ee77, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sceneMusics:
+  - sceneName: MainMenu
+    musicClip: {fileID: 8300000, guid: 5f15c69a481be144d80c4624fcdf69fb, type: 3}
+  - sceneName: LevelChooser
+    musicClip: {fileID: 8300000, guid: 5f15c69a481be144d80c4624fcdf69fb, type: 3}
+  - sceneName: ChallengeArea2Scene
+    musicClip: {fileID: 8300000, guid: 5f15c69a481be144d80c4624fcdf69fb, type: 3}
+  - sceneName: ChallengeArea3Scene
+    musicClip: {fileID: 8300000, guid: 5f15c69a481be144d80c4624fcdf69fb, type: 3}
+  - sceneName: ChallengeArea4Scene
+    musicClip: {fileID: 8300000, guid: 5f15c69a481be144d80c4624fcdf69fb, type: 3}
+--- !u!4 &95448370
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 95448368}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 960, y: 103.000015, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &588116646
 GameObject:
   m_ObjectHideFlags: 0
@@ -470,11 +525,11 @@ MonoBehaviour:
   - levelName: Tutorial
     sceneName: ChallengeArea1Scene
   - levelName: Level 1
-    sceneName: ChallengeArea1Scene
+    sceneName: ChallengeArea2Scene
   - levelName: Level 2
-    sceneName: ChallengeArea1Scene
+    sceneName: ChallengeArea3Scene
   - levelName: Level 3
-    sceneName: ChallengeArea1Scene
+    sceneName: ChallengeArea4Scene
   levelButtonPrefab: {fileID: 3951939881700039382}
   levelButtonContainer: {fileID: 4977703025393314524}
 --- !u!4 &1440725400
@@ -1023,3 +1078,4 @@ SceneRoots:
   - {fileID: 588116647}
   - {fileID: 945318703}
   - {fileID: 1440725400}
+  - {fileID: 95448370}

@@ -48,6 +48,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 2711916927
+    locked: 0
+  - name: Underground
+    uniqueID: 267802119
+    locked: 0
   - name: Ground
     uniqueID: 2728191525
     locked: 0
